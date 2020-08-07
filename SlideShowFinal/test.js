@@ -42,6 +42,7 @@ let bilderBeschreibung = [
 
 function bildWechseln() {  
   // (44, 48) bei "testing"
+  // kommt auf den Repositories-Name an
   
   index = bilder.indexOf(document.getElementById("bild").src.slice(51, 55))+1;
   beschreibung = bilderBeschreibung[index];
