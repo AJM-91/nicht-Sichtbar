@@ -23,8 +23,8 @@ let bilderBeschreibung = [
 ];
 
 function bildWechseln() {  
-
-  index = bilder.indexOf(document.getElementById("bild").src.slice(44, 48))+1;
+  // (44, 48) bei "testing"
+  index = bilder.indexOf(document.getElementById("bild").src.slice(51, 5))+1;
   beschreibung = bilderBeschreibung[index];
   test = bilder[index];
 
