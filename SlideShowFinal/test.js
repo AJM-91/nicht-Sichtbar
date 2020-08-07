@@ -33,9 +33,9 @@ let bilderBeschreibung = [
   "Früh aufstehen hat sich gelohnt!",
   "Schattenspiel",
   "Affen!",
-  "Etwas zu spät vor Ort, aber trotzdem eine Ewige Erinnerung!",
-  "",
-  "",
+  "Etwas zu spät vor Ort, aber trotzdem eine ewige Erinnerung!",
+  "Moped mit dir fahren, hat super viel spaß gemacht.",
+  "Sah das wirklich so aus!?",
   "Unvergesslicher Strand. Man sieht die kleine Hütte. ;)",
   "Dort oben hattest du ein sehr schönes Kleid an! Der Ausblick war auch atemberaubend. :)"
 ];
