@@ -28,6 +28,7 @@ function bildWechseln() {
   beschreibung = bilderBeschreibung[index];
   test = bilder[index];
 
+  console.log(src.slice(51, 55));
 
   if (test === undefined) {
     test = bilder[0];
