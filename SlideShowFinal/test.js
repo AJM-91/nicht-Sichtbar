@@ -8,8 +8,17 @@ let bilder = [
   "1957", 
   "2074", 
   "2118", 
-  "2205", 
-  "2206"
+  "2205",
+  "2324",
+  "2420",
+  "2559",
+  "2622",
+  "3267",
+  "3893",
+  "4140",
+  "4227",
+  "4279",
+  "4489"
 ];
 
 let bilderBeschreibung = [
@@ -19,7 +28,16 @@ let bilderBeschreibung = [
   "Lao Lading island", 
   "Lagoon of Hong island (Ebbe)", 
   "Hong island Beach (nur per Kanu erreichbar)", 
-  "Hong island Beach (nur per Kanu erreichbar)"
+  "weißt du noch wo das war? Ich vermute Ao Nang.",
+  "Wir ahnen noch nichts von der Feuershow.",
+  "Früh aufstehen hat sich gelohnt!",
+  "Schattenspiel",
+  "Affen!",
+  "Etwas zu spät vor Ort, aber trotzdem eine Ewige Erinnerung!",
+  "",
+  "",
+  "Unvergesslicher Strand. Man sieht die kleine Hütte. ;)",
+  "Dort oben hattest du ein sehr schönes Kleid an! Der Ausblick war auch atemberaubend. :)"
 ];
 
 function bildWechseln() {  
